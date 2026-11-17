@@ -62,4 +62,4 @@ FOOD_TYPES: [
 };
 
 // Set false for production
-export const DEBUG_DISABLE_LIMIT = true;
+export const DEBUG_DISABLE_LIMIT = false;
