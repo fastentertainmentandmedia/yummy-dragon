@@ -41,8 +41,9 @@ FOOD_TYPES: [
   { id: 'noodles', src: 'game/assets/food/noodles.svg', weight: 5, scale: 1 },
   { id: 'ramen',   src: 'game/assets/food/ramen.svg',   weight: 5, scale: 1 },
   { id: 'sushi',   src: 'game/assets/food/sushi.svg',   weight: 4, scale: 1 },
-  { id: 'kimpab',  src: 'game/assets/food/kimpab.png',  weight: 5, scale: 1 },
+  { id: 'kimbap',  src: 'game/assets/food/kimbap.png',  weight: 5, scale: 1.2 },
   { id: 'onigiri', src: 'game/assets/food/onigiri.png', weight: 5, scale: 1 },
+  { id: 'gunkan', src: 'game/assets/food/gunkan.png', weight: 5, scale: 1 },
 
   // редкий
   { id: 'poke',    src: 'game/assets/food/poke.png',    weight: 3, scale: 1 },
